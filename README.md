@@ -10,11 +10,11 @@
 - Develop smart contract with Openzeppelin: https://docs.openzeppelin.com/contracts/
 - More details at: https://itechnote.co/mytoken5/
 
-## [Create your first decentralized picture]
+## Create your first decentralized picture
 Create your first decentralized picture on IPFS by using Pinata.
 More details at https://itechnote.co/mytoken6/
 
-## [Setting Metadata]
+## Setting Metadata
 Using JSON file format to create a metadata which is about the detail of NFT.
 More details at https://itechnote.co/mytoken7/
 
