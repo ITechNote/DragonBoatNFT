@@ -1,0 +1,8 @@
+{
+  "name": "Dragon Boat Festival",
+  "description": "Dragon Boat Festival NFT created by ITechNote",
+  "image": "ipfs://QmcPZAfs4rxPjuUWcdtBebbzmfyXhDG9Y9dtqLc9yJ2fw2",
+  "external_url": "https://itechnote.co/",
+  "seller_fee_basis_points": 1000, 
+  "fee_recipient": "0xAE1Dd06D57f582999A9C50b86bA913eeCD7155ce"
+}
