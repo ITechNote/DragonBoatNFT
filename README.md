@@ -28,7 +28,7 @@ More details at https://itechnote.co/mytoken8/
 
 ## [BurnAndMint.sol](https://github.com/ITechNote/DragonBoatNFT/blob/main/Contracts/MintAndBurn.sol)
 Write a Mint and Burn function, start your first NFT porject.
-More details at https://itechnote.co/mytoken8/
+More details at https://itechnote.co/mytoken9/
 
 ## [Withdraw.sol](https://github.com/ITechNote/DragonBoatNFT/blob/main/Contracts/Withdraw.sol)
 If my smart contact got some money by selling my NFTs, how to withdraw ETH or ERC-20 token from the contract.
