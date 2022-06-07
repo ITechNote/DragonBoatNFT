@@ -36,6 +36,8 @@ If my smart contact got some money by selling my NFTs, how to withdraw ETH or ER
 ## [DragonBoatFestNFT.sol](https://github.com/ITechNote/DragonBoatNFT/blob/main/Contracts/DragonBoatFestNFT.sol)
 The final version of Dragon Boat Festival NFT, with Ownable, MintAndBurn, Withdraw, OpenSea royalties and ERC-2981.
 
+## [Dragon Boat Festival NFT 2022](https://opensea.io/collection/dragonboatfestival)
+Dragon Boat Festival NFT is on OpenSea now!
 
 ## ITechNote links
 | Platforms | URL |
