@@ -1,5 +1,10 @@
 ![GitHub](https://img.shields.io/badge/license-MIT-green)
 # 【Dragon Boat Festival NFT】 Develop first ERC1155 token by yourself on Remix Solidity
+![image](https://github.com/ITechNote/DragonBoatNFT/blob/main/DragonBoatFestival%20NFT.jpg)
+<br>
+Dragon Boat Festival NFT is on OpenSea now!
+https://opensea.io/collection/dragonboatfestival
+
 **Some ideas and useful tools need to learn before develop a smart contract.**
 - Searching Hash online, visit Etherescan: https://etherscan.io/
 - Learn some Solidity examples: https://solidity-by-example.org/
@@ -35,9 +40,6 @@ If my smart contact got some money by selling my NFTs, how to withdraw ETH or ER
 
 ## [DragonBoatFestNFT.sol](https://github.com/ITechNote/DragonBoatNFT/blob/main/Contracts/DragonBoatFestNFT.sol)
 The final version of Dragon Boat Festival NFT, with Ownable, MintAndBurn, Withdraw, OpenSea royalties and ERC-2981.
-
-## [Dragon Boat Festival NFT 2022](https://opensea.io/collection/dragonboatfestival)
-Dragon Boat Festival NFT is on OpenSea now!
 
 ## ITechNote links
 | Platforms | URL |
